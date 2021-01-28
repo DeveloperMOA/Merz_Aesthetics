@@ -1,0 +1,38 @@
+{
+    "titles": [
+        "\nFacial Anatomy",
+        "\nA.1\n<size=24>B.UP Technique is a structured treatment algorithm, based in facial anatomy, adressing facial sagging and facial jowling without increasing midfacial volume.</size>",
+        "\nA.2\n<size=24>Line of ligaments is crucial to start.</size>",
+        "\nA.3\n<size=24>Injections into the medial will result majorly in VOLUMIZING effects.</size>",
+        "\nA.4\n<size=24>Injections into the lateral face will result in majorly LIFTING effects.</size>",
+        "\nA.5\n<size=24>Injecting in the right place, Belotero Volume is going to work like an anchor to the ligaments, producing a lifting effect.</size>",
+        "\nA.6\n<size=24>ORL: Orbital Retaining Ligament\nZCL: Zygomatic Cutaneous Ligaments\nZA: Zygomatic Arch</size>",
+        "\nA.7\n<size=22>STS: Superficial Temporal Septum\nITS: Inferior Temporal Septum\n</size>",
+        "\nA.8\n<size=22>SUTC: Superficial Upper Temporal Compartment\nSLTC: Superficial Lower Temporal Compartment\n</size>",
+        "\nA.9\n<size=24><b>Descending</b>:\n1: Superficial nasolabial\n3: Middle cheek\n7: Superficial jowl</size>",
+        "\nA.10\n<size=20><b>Stables</b>:\n2: Malar fat\n4: Lateral cheek\n5: Superior superficial temple\n6: Inferior superficial temple\n</size>",
+        "\nStep 1\n<size=24>Apply Anesthesia</size>",
+        "\n1.1\n<size=24>Dermal insertion point is 1 cm anterior to the tragus.</size>",
+        "\n1.2\n<size=24>Inject 0.5 ml lidocaine.</size>",
+        "\nStep 2\n<size=24>Insert Cannula</size>",
+        "\n2.1\n<size=24>Insert the cannula into the marked point.</size>",
+        "\n2.2\n<size=24>Subdermal product placement is essential.</size>",
+        "\n2.3\n<size=24><b>Descending</b>:\n1: Superficial nasolabial\n3: Middle cheek\n7: Superficial jowl</size>",
+        "\n2.4\n<size=20><b>Stables</b>:\n2: Malar fat\n4: Lateral cheek\n5: Superior superficial temple\n6: Inferior superficial temple\n</size>",
+        "\n2.5\n<size=24>Bup positions the cannula bevel up – until the temple region.</size>",
+        "\nStep 3\n<size=24>Apply Product</size>",
+        "\n3.1\n<size=24>Tilt the cannula against the skin to verify superficial position.</size>",
+        "\n3.2\n<size=24>Only bolus, no fanning. Compress the injection canal to avoid retrograde product flow. Assist bolus formation with your non-dominant hand.</size>",
+        "\nStep 4\n<size=24>Apply on the opposite side\nRepeat</size>",
+        "\n4.1\n<size=24>Bup improves facial sagging, ioncreases jawline contouring, improves “Marionette” lines.</size>",
+        ""
+    ],
+    "content": {
+        "lid": "( Lidocaine 0.5ml )",
+        "can": "<b>Essential</b>\nCannula 22g x 50/70 mm",
+        "bel": "<b>0.5</b>\nBelotero Volume 1 ml",
+        "rep": "<b>Repeat</b>\nsteps from 1 to 3",
+        "pla":  "Subdermal plane",
+        "ref": "Estas recomendaciones son una guía.\nRecuerda realizar siempre un tratamiento a la medida de cada paciente."
+    }
+}

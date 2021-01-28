@@ -1,0 +1,35 @@
+{
+    "titles": [
+        "\nPaso 1\n<b>Identificar</b> triángulo trunco",
+        "\n1.1\nCanto externo / Oreja",
+        "\n1.2\nCanto externo / Comisura bucal",
+        "\n1.3\nComisura bucal / Canto medio del trago",
+        "\nPaso 2\nDetectar el punto de máxima proyección malar y el área de estructuración.",
+        "\n2.1\nBisectriz del ángulo del canto externo",
+        "\n2.2\nPunto de máxima proyección malar",
+        "\n2.3\nEl punto de máxima proyección malar debe coincidir con la línea ligamentaria",
+        "\n2.4\nÁrea de estructuración",
+        "\nPaso 3",
+        "\n3.1\nAplicar bolos de lateral a medial",
+        "\n3.2\nAplicar un poco más de producto en área de máxima proyección",
+        "\n3.3\nDe 2 a 4 bolos dependiendo del arco cigomático del paciente",
+        "\nPaso 4",
+        "\n4.1\nAplicar en el punto y dentro del triángulo",
+        "\nPaso 5",
+        "\n5.1\nAplicar en fosa pririforme si el paciente lo requiere",
+        ""
+    ],
+    "content": {
+        "P3_Apl": "<b>Aplicar</b>\nBELOTERO Intense",
+        "P3_Arc": "Arco Cigomático <size=60%>Aguja/cánula 25g Supraperióstico",
+        "P4_Apl": "<b>Aplicar</b>\nBELOTERO VOLUME",
+        "P4_Mej": "Mejilla Anterior <size=60%>Aguja/Cánula 22/ 25gr Cojinetes grasos",
+        "P5_Apl": "<b>Aplicar</b>\nBELOTERO Intense",
+        "P5_Fos": "Fosa piriforme <size=60%>Aguja 27gr Supraperióstico",
+        "P2_1_Crest": "    Cresta\nTemporal",
+        "P2_1_Gros": "    Engrosamiento\nOrbicular",
+        "P2_1_Zyg": "    Ligamentos\ncigomáticos",
+        "P2_1_Jaw": "    Ligamento\nmandibular",
+        "ref": "Estas recomendaciones son una guía.\nRecuerda realizar siempre un tratamiento a la medida de cada paciente."
+    }
+}

@@ -1,0 +1,402 @@
+ManifestFileVersion: 0
+CRC: 1770703270
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d16f2f827c453f07bbfa870ea36cd511
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e5726ffee1bd8de4c993d3fe5f8ad102
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9dd8450920953f488f41077998fc233, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bda3d1f60f43a45a03a8fb26627bdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a19b263176e02a49a321137e06eb578, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba5f40f6be5fc0a4693817c87624195d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a048efd7e3e8bc54fafb3912e3f997c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 136c41291644ec74bbba791d16e8e70e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 852c31695cd464e4aa4202bbc719b6d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad06e91de712927428c4514d84de36ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3140853d7a69fae40aff56f51257c97f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c7ab47d6877a0f49af1d3507bc9838a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0100.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0043.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0064.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0042.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0075.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0167.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0178.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0010.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0114.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0130.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0014.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/Box_Tx.mat
+- Assets/Bundles/Belotero/Techniques/BUP/Sprites/identificador-paso-tecnica-b_up.png
+- Assets/Bundles/Belotero/Techniques/BUP/Prefabs/ItemShowcase_M_AR.prefab
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0003.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0173.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0097.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0103.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0078.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0004.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0017.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0025.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0014.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0015.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0053.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0163.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0076.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0041.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0116.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0003.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0107.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0021.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0027.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0006.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0091.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0156.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0109.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0020.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Languages/loc_es.json
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0123.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0071.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0065.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Animation/Jeringa_M.controller
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0027.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0005.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0024.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0080.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0136.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0006.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/Female.mat
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0051.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0016.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0028.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0005.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0005.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0067.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0105.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0052.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Prefabs/ItemShowcase_M_3D.prefab
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0045.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0027.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0108.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0006.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0023.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0062.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0000.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Male_Normal.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0020.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0023.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Animation/Jeringa_F.controller
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0016.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0119.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Cuadrito_N.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Mesh/CuadritoAnimado.fbx
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/Female_Eyelash_Bot.mat
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0013.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0153.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0049.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0125.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0004.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0172.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0074.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0112.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0138.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0012.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0069.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/CanulaLiquid.mat
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0085.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0146.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0001.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0044.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/Piel.mat
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0168.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0148.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0021.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0058.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0031.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0095.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0008.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0165.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0126.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0010.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0079.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0072.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBUp_0029.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0024.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0070.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0019.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/Female_Eye.mat
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0066.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0004.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0150.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0102.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Mesh/Jeringa Anestesia.fbx
+- Assets/Bundles/Belotero/Techniques/BUP/Sprites/btn-anatomia-fondo-tecnica_b_up.png
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0007.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0012.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0179.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBUp_0030.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Languages/loc_en.json
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0137.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0098.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0093.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0088.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0129.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0158.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0115.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0124.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0029.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Skin.controller
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0034.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0056.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0020.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0087.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0118.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0145.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0026.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0003.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0022.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0122.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0154.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0026.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Prefabs/Anestesia.prefab
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0083.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0111.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBUp_0033.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0068.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0009.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0019.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0000.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0104.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0144.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0018.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0110.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Sprites/btn-configuracion.png
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Male_Specular.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0037.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0048.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0061.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0174.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/Plane.mat
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0008.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBUp_0032.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0143.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0023.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0131.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0047.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0009.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0011.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0161.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0015.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0029.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/JeringaCilindro_metallic.png
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0040.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/BeloteroCilindro_baseColor.png
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0026.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0055.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Female_Normal.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0028.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0019.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0050.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Mesh/Canula-Belotero.fbx
+- Assets/Bundles/Belotero/Techniques/BUP/Mesh/FemaleHead_Export.obj
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0007.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0010.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0038.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0009.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0133.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0169.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/JeringaCilindro_opacity.png
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/Female_Eyelash_Top.mat
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0142.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0159.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0149.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Female_Eye_Diffuse.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0025.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0113.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0032.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Mesh/Box.fbx
+- Assets/Bundles/Belotero/Techniques/BUP/Prefabs/ItemShowcase_F_AR.prefab
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0170.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0152.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0024.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0008.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0132.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/CanulaHead.mat
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/PlaneColor.png
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0046.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0001.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0082.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0084.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Male_Diffuse.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0128.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/AnestesiaMariposa.mat
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0012.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Male_Eye_Diffuse.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/Eye_Crystal.mat
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0120.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0036.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0017.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0140.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0063.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0016.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Female_Eyelash_Top_Diffuse.png
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Female_Eyelash_Bottom_Diffuse.png
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0002.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0073.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0092.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0001.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0135.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Cuadrito_S.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/AnestesiaLiquid.mat
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0160.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0151.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/Male.mat
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0032.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Female_Specular.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0117.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Mesh/FemaleHead.prefab
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0014.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0134.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0157.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0089.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0171.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Female_Diffuse.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0022.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/BeloteroCilindro_opacity.png
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBUp_0021.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0096.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0011.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0011.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0164.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0141.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/Box_Tx.png
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0033.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/AnestesiaBody.mat
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/Male_Eye.mat
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0002.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBUp_0028.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0060.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0077.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Textures/JeringaCilindro_baseColor.png
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0018.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0022.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0175.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0127.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Mesh/MaleHead.prefab
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0002.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0057.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0139.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0177.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0031.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0086.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0025.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Animation/Jeringa_F.anim
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0030.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0099.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0081.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Mesh/MaleHead_Export.obj
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0030.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0166.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Prefabs/NavigationBar.prefab
+- Assets/Bundles/Belotero/Techniques/BUP/Animation/Jeringa_M.anim
+- Assets/Bundles/Belotero/Techniques/BUP/Prefabs/CanulaBelotero.prefab
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0059.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0018.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0033.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Prefabs/ItemShowcase_F_3D.prefab
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0162.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0090.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0155.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0013.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0094.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0035.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBUp_0031.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Male_Textures/MBUp_0015.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0121.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0013.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0039.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0054.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0007.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Female_Textures/FBup_0000.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/Materials/CanulaBody.mat
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0106.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0017.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0101.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0176.jpg
+- Assets/Bundles/Belotero/Techniques/BUP/SkinAnimation/Cuad_0147.jpg
+Dependencies: []

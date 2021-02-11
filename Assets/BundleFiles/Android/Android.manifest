@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1513827416
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: belotero_t_bup
+      Dependencies: {}
+    Info_1:
+      Name: belotero_t_volumeintense
+      Dependencies:
+        Dependency_0: belotero_t_bup
+    Info_2:
+      Name: belotero_p_volume
+      Dependencies: {}

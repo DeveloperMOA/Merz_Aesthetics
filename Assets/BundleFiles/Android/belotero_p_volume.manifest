@@ -1,0 +1,177 @@
+ManifestFileVersion: 0
+CRC: 939329548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2dc08cdcba53f89dd6b52bec7e32e91c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 886e4eb5e4ca86271d5aac4aefc39bee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9dd8450920953f488f41077998fc233, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bda3d1f60f43a45a03a8fb26627bdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a19b263176e02a49a321137e06eb578, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec3e6656d10a52641a3661ab31720119, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba5f40f6be5fc0a4693817c87624195d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a048efd7e3e8bc54fafb3912e3f997c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 136c41291644ec74bbba791d16e8e70e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 852c31695cd464e4aa4202bbc719b6d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2061d78b03ff64a408bb83fa485fc0d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c7ab47d6877a0f49af1d3507bc9838a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Belotero/Products/Volume/Materials/Projection_mat.mat
+- Assets/Bundles/Belotero/Products/Volume/Textures/Cubo Piel Txt.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/PointController.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/PlusIcon.png
+- Assets/Bundles/Belotero/Products/Volume/Materials/Triangle.mat
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/ReologyCard2.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/latido4.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/slide1.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Square.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Reo_Plane_1_02.png
+- Assets/Bundles/Belotero/Products/Volume/Mesh/Triangulo.fbx
+- Assets/Bundles/Belotero/Products/Volume/Prefabs/Triangulo.prefab
+- Assets/Bundles/Belotero/Products/Volume/Mesh/Proyeccion.fbx
+- Assets/Bundles/Belotero/Products/Volume/Animation/Cross.anim
+- Assets/Bundles/Belotero/Products/Volume/Textures/slide2.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/latido1.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Reo_Plane_1_01.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/BeloteroVolumeController.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/MainButtons.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/latido2.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/ReologyController.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/Reo_Plane_1_03.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/MainPageController.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/Ar-imagen-belotero-volume-inicio.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/CrossController.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/CPM_Frame4.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/Diagnostics.anim
+- Assets/Bundles/Belotero/Products/Volume/Textures/Reo_Plane_2_2.png
+- Assets/Bundles/Belotero/Products/Volume/Mesh/Box.fbx
+- Assets/Bundles/Belotero/Products/Volume/Mesh/Skull.fbx
+- Assets/Bundles/Belotero/Products/Volume/Textures/latido5.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Microscopio_Tx.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Reo_Plane_2_4.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/skull_NT_Low.jpg
+- Assets/Bundles/Belotero/Products/Volume/Animation/Results.anim
+- Assets/Bundles/Belotero/Products/Volume/Animation/MainPage.anim
+- Assets/Bundles/Belotero/Products/Volume/Textures/CPM_Frame6.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Box_Tx.png
+- Assets/Bundles/Belotero/Products/Volume/Materials/SkinCube.mat
+- Assets/Bundles/Belotero/Products/Volume/Prefabs/ItemShowcase_AR.prefab
+- Assets/Bundles/Belotero/Products/Volume/Animation/Rec.anim
+- Assets/Bundles/Belotero/Products/Volume/Materials/Skull.mat
+- Assets/Bundles/Belotero/Products/Volume/Textures/ProyeccionTxt.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Reo_Plane_2.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Reo_Plane_2_3.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/LineColor.png
+- Assets/Bundles/Belotero/Products/Volume/Prefabs/ItemShowcase_3D.prefab
+- Assets/Bundles/Belotero/Products/Volume/Mesh/Plato de petri.fbx
+- Assets/Bundles/Belotero/Products/Volume/Textures/Reo_Plane_1_05.png
+- Assets/Bundles/Belotero/Products/Volume/Mesh/Microscopio.fbx
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/RecController.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/CPM_Frame7.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/CPM_Frame1.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/home(1).png
+- Assets/Bundles/Belotero/Products/Volume/Animation/Reology.anim
+- Assets/Bundles/Belotero/Products/Volume/Textures/PlaneColor.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/ApplicationController.controller
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/BenefitsController.controller
+- Assets/Bundles/Belotero/Products/Volume/Animation/BeloteroVolume.anim
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/ResultsController.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/latido3.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/ReoC2.anim
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/ReologyCard1.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/Head_Low.jpg
+- Assets/Bundles/Belotero/Products/Volume/Textures/CPM_0_Tx.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/Benefits.anim
+- Assets/Bundles/Belotero/Products/Volume/Textures/cohesividad.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/TechnologyController.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/Eye_Low.jpg
+- Assets/Bundles/Belotero/Products/Volume/Textures/Reo_Plane_1_04.png
+- Assets/Bundles/Belotero/Products/Volume/Materials/BlueLine.mat
+- Assets/Bundles/Belotero/Products/Volume/Textures/CPM_Frame5.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/PointPulse.anim
+- Assets/Bundles/Belotero/Products/Volume/Animation/Application.anim
+- Assets/Bundles/Belotero/Products/Volume/Textures/CPM_Frame2.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Cross_4.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Reo_Plane_1_06.png
+- Assets/Bundles/Belotero/Products/Volume/Prefabs/NavigationBar.prefab
+- Assets/Bundles/Belotero/Products/Volume/Textures/Triangulo_Txt.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/ReoC1.anim
+- Assets/Bundles/Belotero/Products/Volume/loc_es.json
+- Assets/Bundles/Belotero/Products/Volume/Materials/Planes.mat
+- Assets/Bundles/Belotero/Products/Volume/Mesh/Cubo Piel.fbx
+- Assets/Bundles/Belotero/Products/Volume/Mesh/Woman.fbx
+- Assets/Bundles/Belotero/Products/Volume/Textures/btn-configuracion.png
+- Assets/Bundles/Belotero/Products/Volume/Animation/TechnologyPage.anim
+- Assets/Bundles/Belotero/Products/Volume/Animation/Controllers/DiagnosticsController.controller
+- Assets/Bundles/Belotero/Products/Volume/Textures/MainButtons2.png
+- Assets/Bundles/Belotero/Products/Volume/Textures/Petri_Tx.png
+Dependencies: []

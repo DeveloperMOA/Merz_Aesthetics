@@ -1,0 +1,230 @@
+ManifestFileVersion: 0
+CRC: 3333933393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33b6a4b56e5b30e1f759ea63d80ad62f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cac12fd69007c44ae718e9494dcde82e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9dd8450920953f488f41077998fc233, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0bda3d1f60f43a45a03a8fb26627bdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a19b263176e02a49a321137e06eb578, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba5f40f6be5fc0a4693817c87624195d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a048efd7e3e8bc54fafb3912e3f997c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 136c41291644ec74bbba791d16e8e70e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 852c31695cd464e4aa4202bbc719b6d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2061d78b03ff64a408bb83fa485fc0d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c7ab47d6877a0f49af1d3507bc9838a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/NavigationBar.prefab
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0028_02_019.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Female_Eye_Diffuse.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0025_02_
+  016.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0021_02_012.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0042_03_012.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0030_02_
+  021.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0040_03_010.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0047_05_002.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0008_01_008.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0044_04_001.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0004_01_004.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/ItemShowcase_M_3D.prefab
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0023_02_014.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0047_05_002.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Female_Specular.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0020_02_011.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0017_02_008.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/CajaTxt_intense_.png
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Materials/BoxIntense.mat
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0002_01_002.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0041_03_011.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0022_02_013.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0025_02_016.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0013_02_004.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0039_03_009.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0043_03_013.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0039_03_009.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0010_02_001.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0006_01_006.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Materials/Female_Eyelash_Top.mat
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0019_02_010.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Female_Normal.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0013_02_004.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0036_03_006.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0011_02_002.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0003_01_003.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Box_Tx.png
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0019_02_010.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0004_01_004.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0029_02_020.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0034_03_004.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0015_02_006.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Male_Normal.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0022_02_013.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0037_03_007.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0033_03_003.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0005_01_005.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0007_01_007.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0030_02_021.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0026_02_
+  017.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Mesh/FemaleHead.prefab
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Animation/Female_P2_1_Anim.anim
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0016_02_007.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0018_02_009.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0015_02_006.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0018_02_009.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0010_02_001.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0006_01_006.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0005_01_005.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0008_01_008.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0009_01_009.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0027_02_018.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Animation/Male_P2_1_Anim.anim
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0038_03_008.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0032_03_002.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/ItemShowcase_M_AR.prefab
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0028_02_
+  019.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0001_01_001.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0012_02_003.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0026_02_017.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0036_03_006.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0014_02_005.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Animation/Male_P2_1_Controller.controller
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0035_03_005.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0033_03_003.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Materials/Male.mat
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0041_03_011.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Female_Diffuse.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Mesh/Caja.fbx
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0044_04_001.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0043_03_013.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0029_02_
+  020.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0037_03_007.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0024_02_015.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0000_01_000.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0046_05_001.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0023_02_014.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Materials/Box.mat
+- "Assets/Bundles/Belotero/Techniques/VolumeIntense/Sprites/btn-configuracion-tecnica_estructuracion_y_voluminizaci\xF3n.png"
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0040_03_010.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Materials/Female_Eyelash_Bot.mat
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0001_01_001.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0035_03_005.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Mesh/MaleHead_Export.obj
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Male_Diffuse.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0000_01_000.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Materials/Female_Eye.mat
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Sprites/indicator.png
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Female_Eyelash_Bottom_Diffuse.png
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Female_Eyelash_Top_Diffuse.png
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0042_03_012.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Mesh/FemaleHead_Export.obj
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0011_02_002.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0021_02_012.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0034_03_004.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0017_02_008.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Animation/Female_P2_1_Controller.controller
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0003_01_003.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0046_05_001.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Male_Eye_Diffuse.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0045_04_002.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0016_02_007.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0009_01_009.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0027_02_
+  018.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0031_03_001.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0038_03_008.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/loc_es.json
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Materials/Male_Eye.mat
+- "Assets/Bundles/Belotero/Techniques/VolumeIntense/Sprites/btn_voluminizaci\xF3n-fondo.png"
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0045_04_002.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0002_01_002.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0020_02_011.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0032_03_002.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/Male_Specular.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/ItemShowcase_F_3D.prefab
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/ItemShowcase_F_AR.prefab
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0024_02_
+  015.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Mesh/MaleHead.prefab
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0031_03_001.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0012_02_003.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/MaleTextures/M_0014_02_005.jpg
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Materials/Female.mat
+- Assets/Bundles/Belotero/Techniques/VolumeIntense/Textures/FemaleTextures/F_0007_01_007.jpg
+Dependencies:
+- D:/Projectos/Merz_Aesthetics/Assets/BundleFiles/Android/belotero_t_bup

@@ -124,7 +124,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 11.1
+  bundleVersion: 11.2
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 0}
@@ -173,10 +173,10 @@ PlayerSettings:
     Android: com.merz.aestheticsclick
     iPhone: com.merz.aestheticsclick
   buildNumber:
-    iPhone: 1
-  AndroidBundleVersionCode: 2
-  AndroidMinSdkVersion: 22
-  AndroidTargetSdkVersion: 29
+    iPhone: 2
+  AndroidBundleVersionCode: 3
+  AndroidMinSdkVersion: 24
+  AndroidTargetSdkVersion: 30
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 0

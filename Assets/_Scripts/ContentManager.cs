@@ -51,7 +51,8 @@ public class BrandItem
 {
 	public string path;
 	public Hash128 version;
-	public string name;
+    public string versionstring;
+    public string name;
 
 	[JsonIgnore][NonSerialized]
 	public float downloadProgress;
@@ -70,6 +71,7 @@ public class BrandItem
 	{
 		this.path = path;
 		this.version = version;
+        versionstring = version.ToString();
 		this.name = name;
 	}
 }
@@ -201,7 +203,12 @@ public class ContentManager : MonoBehaviour
 		yield return new WaitForSeconds(0.5f);
 
 		item.isDownloading = false;
-		if (bundleRequest.isHttpError || bundleRequest.isNetworkError || progressTimeout)
+        /*
+         
+        Debug esta parte!!!!
+         
+         */
+		if (bundleRequest.isHttpError || bundleRequest.isNetworkError || progressTimeout) //checar esta linea! 16/02/2021
 		{
 			if (!progressTimeout)
 				MobileMessage.ShowAlert("Asset Bundle download failed", bundleRequest.error);
